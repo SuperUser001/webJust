@@ -1,0 +1,2 @@
+ErrorDocument 404 http://localhost/shop/?page=index
+php_value error_reporting 1
