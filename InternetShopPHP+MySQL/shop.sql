@@ -260,8 +260,8 @@ INSERT INTO `pages` (`id`, `url`, `title`, `template`, `content`) VALUES
 
 (2, 'about', 'Об Авторе', 'default_simple', '                                                          
 		<div class="text_item_body">\r\n                        
-			<div class="item_char">Имя: <b>Волик</b></div>  \r\n                        
-			<div class="item_char">Фамилия: <b>Анастасия</b></div>    \r\n                                         
+			<div class="item_char">Имя: <b>Anastasya</b></div>  \r\n                        
+			<div class="item_char">Деятельность: <b>Начинающий программист</b></div>    \r\n                                         
 		</div>\r\n            \r\n            \r\n            '),
 
 (3, 'melodrams', 'Мелодрамы', 'default_shop', ''),
